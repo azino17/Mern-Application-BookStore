@@ -1,0 +1,83 @@
+[{
+        "id": 1,
+        "name": "Book One",
+        "title": "The First Book",
+        "price": 19.99,
+        "category": "Free",
+        "image":"Banner.png"
+      },
+      {
+        "id": 2,
+        "name": "Book Two",
+        "title": "The Second Book",
+        "price": 24.99,
+        "category": "Free",
+        "image":"Banner.png"
+      },
+      {
+        "id": 3,
+        "name": "Book Three",
+        "title": "The Third Book",
+        "price": 15.99,
+        "category": "Free",
+        "image":"Banner.png"
+      },
+      {
+        "id": 4,
+        "name": "Book Four",
+        "title": "The Fourth Book",
+        "price": 29.99,
+        "category": "Free",
+        "image":"Banner.png"
+      },
+      {
+        "id": 5,
+        "name": "Book Five",
+        "title": "The Fifth Book",
+        "price": 0,
+        "category": "Free",
+        "image":"Banner.png"
+      },
+      {
+        "id": 6,
+        "name": "Book six",
+        "title": "The Sixth Book",
+        "price": 29.99,
+        "category": "Free",
+        "image":"Banner.png"
+      },
+      {
+        "id": 7,
+        "name": "Book Seventh",
+        "title": "The Seventh Book",
+        "price": 0,
+        "category": "Free",
+        "image":"Banner.png"
+      },
+      {
+        "id": 8,
+        "name": "Book Eight",
+        "title": "The Eighth Book",
+        "price": 69.99,
+        "category": "Free",
+        "image": "Banner.png"
+      },
+      {
+        "id": 9,
+        "name": "Book Nine",
+        "title": "The Nineth Book",
+        "price": 99.99,
+        "category": "Free",
+        "image": "Banner.png"
+      },
+      {
+        "id": 10,
+        "name": "Book Ten",
+        "title": "The Tenth Book",
+        "price": 89.99,
+        "category": "Free",
+        "image": "Banner.png"
+      }
+    ]
+  
+  
